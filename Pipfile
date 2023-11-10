@@ -6,11 +6,11 @@ name = "pypi"
 [packages]
 numpy = "*"
 pandas = "*"
-matplotlib = "*"
 scikit-learn = "*"
 ipykernel = "*"
 jupyter = "*"
 seaborn = "*"
+matplotlib = "*"
 
 [dev-packages]
 
